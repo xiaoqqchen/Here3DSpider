@@ -5,5 +5,3 @@
 这个程序的作用就是抓取并解析[Here地图](http://heremaps.cn/)的三维城市模型，最终转换成我们熟悉的shapefile格式。
 ##先来看看效果
 <img src="https://github.com/xiaoqqchen/Here3DSpider/blob/master/Demo/demo.jpg">
-
-##程序还未整理完成...先上传模型解析的部分
